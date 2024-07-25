@@ -1,0 +1,135 @@
+body{
+	background-color: #212F3C;
+	padding: auto;
+}
+
+h2{
+	font-size: 28px;
+	color: white ;
+	
+}
+
+.col3 h2{
+	font-size: 28px;
+	color: white ;	
+}
+.col3 p{
+	font-size: 15px;
+	color: white;	
+}
+h3{
+	font-size: 20px;
+	line-height: 1.5;
+	color: white;
+	padding-top: 20px;
+	font-weight: normal;
+	
+}
+h4{
+	margin-top: 15px;
+	font-size: 20px;
+	text-align: center;
+	color: black ;
+}
+
+h4 a{
+	text-decoration: none;
+	color: red;
+}
+
+h5{
+	list-style: 1.5;
+	font-weight: normal;
+	padding: 10px 0;
+	font-size: 12px;	
+}
+p{
+	color: #888;
+	font-size: 15px;
+	text-align: center;
+
+
+}
+.wap{
+	width: 70%;
+	margin: auto;
+
+}
+
+.Bienvenido{
+	margin-top: 50px;
+	text-align: center;
+	color: black;
+}
+
+.col3{
+	width: 33.333%;
+	float: left;
+	padding: 20px 20px;
+	box-sizing:border-box ;
+	margin: auto;
+}
+
+.col3 img{
+	width: 100%;
+	margin-right: 3px;
+	border-radius: 10px;
+	box-shadow: 0px 15px 15px;
+	cursor: pointer;
+}
+
+.col3 img:hover{
+	opacity: 0.5;
+	opacity: 1;
+	transition: 0.6s;
+	position: relative;
+	color: #C0392B ;
+}
+
+.col4{
+	width: 31.333%;
+	margin-left: 20px;
+	float: left;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	border: 2px solid #555;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.col4 h4{
+	height: 30px;
+	color: #444;
+}
+
+.col4:hover{
+	background: green;
+	transition: 0.9s;
+}
+.banner{
+	background: #34495E ;
+	clear: both;
+	padding-top: 30px;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+	transition: 0.8s;
+	padding-bottom: 50px;
+
+}
+.banner:hover{
+	background: black;
+	transition: 0.8s;
+}
+.banner h3{
+	font-size: 26px;
+	color: #fff;
+}
+
+.banner a{
+	text-decoration:none ;
+	margin-left: 20px;
+	font-weight: bold;
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+

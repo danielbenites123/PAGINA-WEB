@@ -1,0 +1,36 @@
+#particles-js{
+	background: url(img/marke4.jpg);
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+
+}
+
+.ancho-letra{
+	top: 200px;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
+.letras-slider{
+	width: 80%;
+	margin: auto;
+}
+.letras-slider h1{
+	color: #fff;
+	font-size: 60px;
+	font-family: Merich ;
+
+}
+.letras-slider p{
+	color: #fff;
+	font-size: 23px;
+	padding-top: 50px;
+	font-family: Gelline ;
+	
+}
+.letras-slider h4{
+	font-size:20px ;
+	font-family: Revain;
+	
+}
